@@ -11,6 +11,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nZMjqsM4jyKMqmJpIwaxHFlZPpQAbW7-/view?usp=sharing](https://drive.google.com/file/d/1nZMjqsM4jyKMqmJpIwaxHFlZPpQAbW7-/view?usp=sharing)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajshekar11&label=Profile%20views&color=0e75b6&style=flat" alt="rajshekar11" /> </p>
+
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajshekar11&show_icons=true&locale=en&layout=compact" alt="rajshekar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajshekar11&show_icons=true&locale=en" alt="rajshekar11" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajashekhar-a-e-322958150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashekhar-a-e-322958150/" height="30" width="40" /></a>
