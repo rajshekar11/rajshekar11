@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajashekhar-a-e-322958150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajashekhar-a-e-322958150/" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/rajshekar767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rajshekar767" height="30" width="40" /></a>
-   <a href="[https://www.hackerrank.com/rajshekar767](https://rajshekar11.github.io./)" target="blank">👨‍💻</a>
+   <a href="https://rajshekar11.github.io./" target="blank">👨‍💻</a>
 </p>
 
 
